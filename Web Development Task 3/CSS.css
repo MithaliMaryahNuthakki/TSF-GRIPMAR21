@@ -1,0 +1,83 @@
+body{
+	background-color:#232D43;
+}
+
+.logo{
+	border-radius:50%;
+	width:50px;
+height:50px;}
+
+.jumbotron{
+	margin-bottom:0px;
+	padding-top:65px;
+	text-align:left;
+	height:400px;
+	background-image: url(pictures/jumbotron.jpg);
+	color:black;
+	font-family:"Bradley Hand";
+	font-style:oblique;
+	}
+	.title-text{
+		font-weight:bold;
+		color:#00216D;
+		font-size:60px;
+		}
+	.donate-button{
+	margin-left:200px;}
+	
+	.quote{
+		padding:5px;
+		margin-top:20px;
+		margin-right:140px;
+		margin-left:140px;
+		text-align:center;
+		font-size:2.5vw;
+		background-color:#F0F2F7;
+		}
+	.about{
+		margin-top:50px;
+		margin-bottom:50px;
+		background-color:#F0F2F7;
+		text-align:center;
+		font-weight:bold;
+	font-size:20px;}
+	
+	.landscapeimage{
+		width:100%;
+	height:200px;
+	margin-top:0px;
+	}
+	
+	.page-footer{
+		margin-top:50px;
+		background-color:#F8F7F5;
+	}
+	.logofooter{
+		
+		border-radius:20%;
+				
+		width:20%;
+	height:20%;
+	margin-left:10%px;
+		
+	}
+	.footerlink{
+	padding:none;}
+	.footerimage{
+		width:50%;
+	height:20%;
+	margin-left:15%;}
+	#myForm{
+	margin-top:200px;}
+	
+	.to-donate-container{
+		margin-top: 100px;
+	}	
+	
+	
+.donation-cards{
+margin-top:100px;
+
+text-align:center;
+}
+	
